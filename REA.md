@@ -1,5 +1,5 @@
-# 中国大学生在线 “四史”学习教育竞答 自动答题 刷分 (3.18可用)  
-
+# 中国大学生在线 “四史”学习教育竞答 自动答题 刷分 (可用)  
+#如果要自己在电脑上跑的，访问这个下载EXE https://github.com/Jacky-Android/ziyuan/blob/%E5%9B%9B%E5%8F%B2/%E5%9B%9B%E5%8F%B2/ChinaUniOnline-main.zip
 
 
 
